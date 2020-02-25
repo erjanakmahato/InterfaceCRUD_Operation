@@ -1,0 +1,16 @@
+C:\Users\Brainnovation\source\repos\InterfaceCRUD\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Brainnovation\source\repos\InterfaceCRUD\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Brainnovation\source\repos\InterfaceCRUD\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Brainnovation\source\repos\InterfaceCRUD\bin\Debug\netcoreapp2.1\InterfaceCRUD.deps.json
+C:\Users\Brainnovation\source\repos\InterfaceCRUD\bin\Debug\netcoreapp2.1\InterfaceCRUD.runtimeconfig.json
+C:\Users\Brainnovation\source\repos\InterfaceCRUD\bin\Debug\netcoreapp2.1\InterfaceCRUD.runtimeconfig.dev.json
+C:\Users\Brainnovation\source\repos\InterfaceCRUD\bin\Debug\netcoreapp2.1\InterfaceCRUD.dll
+C:\Users\Brainnovation\source\repos\InterfaceCRUD\bin\Debug\netcoreapp2.1\InterfaceCRUD.pdb
+C:\Users\Brainnovation\source\repos\InterfaceCRUD\obj\Debug\netcoreapp2.1\InterfaceCRUD.csprojAssemblyReference.cache
+C:\Users\Brainnovation\source\repos\InterfaceCRUD\obj\Debug\netcoreapp2.1\InterfaceCRUD.RazorAssemblyInfo.cache
+C:\Users\Brainnovation\source\repos\InterfaceCRUD\obj\Debug\netcoreapp2.1\InterfaceCRUD.RazorAssemblyInfo.cs
+C:\Users\Brainnovation\source\repos\InterfaceCRUD\obj\Debug\netcoreapp2.1\InterfaceCRUD.AssemblyInfoInputs.cache
+C:\Users\Brainnovation\source\repos\InterfaceCRUD\obj\Debug\netcoreapp2.1\InterfaceCRUD.AssemblyInfo.cs
+C:\Users\Brainnovation\source\repos\InterfaceCRUD\obj\Debug\netcoreapp2.1\InterfaceCRUD.RazorTargetAssemblyInfo.cache
+C:\Users\Brainnovation\source\repos\InterfaceCRUD\obj\Debug\netcoreapp2.1\InterfaceCRUD.dll
+C:\Users\Brainnovation\source\repos\InterfaceCRUD\obj\Debug\netcoreapp2.1\InterfaceCRUD.pdb
